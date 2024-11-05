@@ -4,49 +4,11 @@
   
     
     <entry>
-      <title>第三篇文章</title>
-      <link href="/2024/11/04/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/11/04/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>每日一讲-文本三剑客</title>
+      <link href="/2024/11/04/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AE%B2-linux-%E6%96%87%E6%9C%AC%E4%B8%89%E5%89%91%E5%AE%A2/"/>
+      <url>/2024/11/04/%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AE%B2-linux-%E6%96%87%E6%9C%AC%E4%B8%89%E5%89%91%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 新华三杯 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第二篇文章</title>
-      <link href="/2024/11/04/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/11/04/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> java </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/2024/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="linux-文本三剑客"><a href="#linux-文本三剑客" class="headerlink" title="linux-文本三剑客"></a>linux-文本三剑客</h2>]]></content>
       
       
       <categories>
@@ -55,6 +17,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 每日一讲 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -75,6 +43,12 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -93,6 +67,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -113,24 +93,11 @@
       </categories>
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第八篇文章</title>
-      <link href="/2024/11/03/%E5%85%AB/"/>
-      <url>/2024/11/03/%E5%85%AB/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> RHCE </category>
-          
-      </categories>
-      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -151,6 +118,37 @@
       </categories>
       
       
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第八篇文章</title>
+      <link href="/2024/11/03/%E5%85%AB/"/>
+      <url>/2024/11/03/%E5%85%AB/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> RHCE </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -169,6 +167,87 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2024/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> RHCE </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三篇文章</title>
+      <link href="/2024/11/03/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/11/03/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 新华三杯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章</title>
+      <link href="/2024/11/03/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/11/03/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> demo </tag>
+            
+        </tags>
       
     </entry>
     
